@@ -12,7 +12,7 @@ void reverseString(string &s) {
     }
 }
 int main() {
-    string s="Mehardeep Singh";
+    string s="Harshit Jain";
     reverseString(s);
     cout<<s;
     return 0;
